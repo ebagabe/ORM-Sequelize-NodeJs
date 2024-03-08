@@ -31,7 +31,8 @@
       {
         "vars": "all",
         "args": "none",
-        "ignoreRestSiblings": false
+        "ignoreRestSiblings": false,
+        "endOfLine": "auto"
       }
     ]
   }
